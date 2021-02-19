@@ -17,4 +17,3 @@ Tools > Run Tcl Script...
 Open "create_project.tcl"  
 
 ## Usage
-<img src="https://github.com/ThreeBridge/UDP2HDMI/issues/1#issue-811906635" width="320px">
